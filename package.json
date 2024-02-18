@@ -1,0 +1,19 @@
+{
+  "name": "re-lodash",
+  "version": "1.0.0",
+  "description": "Practice with typescript and jest",
+  "main": "dist/lodash.js",
+  "repository": "https://github.com/AleksandrMihasenko/re-lodash.git",
+  "author": "Aleksandr Mikhasenko <aleksandr.mihasenko@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "typescript": "^5.3.3"
+  }
+}
