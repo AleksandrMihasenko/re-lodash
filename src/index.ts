@@ -1,5 +1,5 @@
-import { sum } from './utils/example';
+import { chunk } from './utils/chunk/chunk';
 
-export default {
-    sum
+export {
+    chunk,
 }
